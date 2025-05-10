@@ -1,6 +1,6 @@
-# 🖥️ Computer Museum Junior @ HTW Berlin
+# 🖥️ Computer Museum Junior
 
-Welcome to the **Computer Museum Junior** study group repository! We are a passionate group of students dedicated to preserving and showcasing the history of computing at HTW Berlin. From vintage computers to early tech artifacts, we bring technology’s past to life through interactive exhibits, restoration projects, and educational programs for all ages.
+Welcome to the **Computer Museum Junior** study group repository! We are a passionate group of students dedicated to preserving and showcasing the history of computing. From vintage computers to early tech artifacts, we bring technology’s past to life through interactive exhibits, restoration projects, and educational programs for all ages.
 
 This repository is where we document our software and systems, collaborate on asset management, and share information about our team and mission. Check out our projects below, and join us on our journey to make tech history accessible, educational, and fun! 🎉
 
@@ -10,7 +10,7 @@ This repository is where we document our software and systems, collaborate on as
 Our mission is simple: to preserve computing history, inspire curiosity, and encourage hands-on learning in kids, teenagers, students, and adults alike. Through our museum projects, we give future generations a chance to explore and appreciate the evolution of technology.
 
 ## 🎯 Vision
-We envision the Computer Museum Junior as a leading educational hub, connecting visitors with the fascinating story of computing and inspiring the next generation of innovators at HTW Berlin and beyond.
+We envision the Computer Museum Junior as a leading educational hub, connecting visitors with the fascinating story of computing and inspiring the next generation of innovators.
 
 ---
 
