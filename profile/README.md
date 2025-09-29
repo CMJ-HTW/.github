@@ -2,8 +2,6 @@
 
 Welcome to the **Computer Museum Junior** study group repository!
 
-**Our purpose is to link these worlds, turning differences into opportunities for learning, creation, and progress.**
-
 This repository is where we document our software and systems, collaborate on asset management, and share information about our team and mission. Check out our projects below, and join us on our journey to make tech history accessible, educational, and fun! 🎉
 
 ---
@@ -16,6 +14,8 @@ We create spaces where:
 - Expertise in legacy tech informs and enhances modern projects
 - Contemporary skills breathe new life into previous systems
 - Collaboration between different perspectives drives unexpected solutions and ideas
+
+**Our purpose is to link these worlds, turning differences into opportunities for learning, creation, and progress.**
 
 ---
 
@@ -73,4 +73,5 @@ For any questions or suggestions, reach out on Discord or email us at [contact e
 ---
 
 Thanks for stopping by! Let’s keep tech history alive and kicking!
+
 
