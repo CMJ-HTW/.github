@@ -1,16 +1,21 @@
 # 🖥️ Computer Museum Junior
 
-Welcome to the **Computer Museum Junior** study group repository! We are a passionate group of students dedicated to preserving and showcasing the history of computing. From vintage computers to early tech artifacts, we bring technology’s past to life through interactive exhibits, restoration projects, and educational programs for all ages.
+Welcome to the **Computer Museum Junior** study group repository!
+
+**Our purpose is to link these worlds, turning differences into opportunities for learning, creation, and progress.**
 
 This repository is where we document our software and systems, collaborate on asset management, and share information about our team and mission. Check out our projects below, and join us on our journey to make tech history accessible, educational, and fun! 🎉
 
 ---
 
 ## 📜 Mission
-Our mission is simple: to preserve computing history, inspire curiosity, and encourage hands-on learning in kids, teenagers, students, and adults alike. Through our museum projects, we give future generations a chance to explore and appreciate the evolution of technology.
+We connect two worlds: the experience of classic computing and the innovation of modern technology. Our community restores, adapts, and experiments with vintage systems, creating a platform where traditional knowledge meets new approaches. Here, each side brings unique strengths—precision, creativity, problem-solving—to build something greater than either could alone.
 
 ## 🎯 Vision
-We envision the Computer Museum Junior as a leading educational hub, connecting visitors with the fascinating story of computing and inspiring the next generation of innovators.
+We create spaces where:
+- Expertise in legacy tech informs and enhances modern projects
+- Contemporary skills breathe new life into previous systems
+- Collaboration between different perspectives drives unexpected solutions and ideas
 
 ---
 
@@ -68,3 +73,4 @@ For any questions or suggestions, reach out on Discord or email us at [contact e
 ---
 
 Thanks for stopping by! Let’s keep tech history alive and kicking!
+
